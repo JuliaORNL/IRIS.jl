@@ -1,0 +1,4 @@
+name = "IRIS"
+uuid = "5c1182fb-ac0e-48d4-a241-b5fdf358c019"
+authors = ["William F Godoy <williamfgc@yahoo.com>"]
+version = "0.1.0"
